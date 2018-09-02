@@ -1,5 +1,5 @@
 # Set theme
-theme: garth-jekyll-theme
+remote_theme: daviddarnes/garth
 
 # File excludes
 exclude:
@@ -10,6 +10,7 @@ exclude:
 # Set plugins
 plugins:
 - jekyll-paginate
+- jekyll-remote-theme
 
 # Site settings
 url: 'https://mydomain.com'
