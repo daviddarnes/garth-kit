@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: About this blog
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+I'm not sure yet what this blog is about, but I'm sure I'll work it out soon.
